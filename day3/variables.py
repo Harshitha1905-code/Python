@@ -22,5 +22,5 @@ print(type(y))
 a=4
 A='harshitha'
 print(a) #prints the value of a
-print(A) #A will not over wrire a
+print(A) #A will not over write a
  
