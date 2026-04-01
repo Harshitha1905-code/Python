@@ -13,4 +13,4 @@ thisdict={
     "year":1964
 }
 #mydict = dict(thisdict)
-#print(mydict)
+#cdprint(mydict)
