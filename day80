@@ -1,0 +1,5 @@
+h=hello world 
+  print(h)
+
+x = [a,b,c,d,e]
+  print[::-1]
