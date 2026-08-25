@@ -1,0 +1,2 @@
+x= "orange"
+print(x)
